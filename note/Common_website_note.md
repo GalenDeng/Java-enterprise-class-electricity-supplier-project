@@ -28,3 +28,43 @@ http://www.imooc.com/article/19998
 ```
 http://learning.happymmall.com 
 ```
+
+## 环境部署学习建议 --- linux篇 (2017.09.30)
+1. `Linux权限管理之基本权限`
+```
+http://www.imooc.com/learn/481
+```
+2. `Linux软件安装管理`
+```
+http://www.imooc.com/learn/447
+```
+3. `Linux达人养成计划 I`
+```
+http://www.imooc.com/learn/175
+```
+4. `Linux服务管理`
+```
+http://www.imooc.com/learn/537
+```
+5. `用iptables搭建一套强大的安全防护盾`
+```
+http://www.imooc.com/learn/389
+```
+6. `版本管理工具介绍—Git篇`
+```
+http://www.imooc.com/learn/208
+```
+7. `Tomcat基础`
+```
+JAVA遇见HTML——JSP篇的第一章
+
+http://www.imooc.com/learn/166
+```
+8. `项目管理利器——maven`
+```
+http://www.imooc.com/learn/443
+```
+9. `与MySQL的零距离接触 ----MySQL的基础`
+```
+http://www.imooc.com/learn/122
+```
