@@ -68,3 +68,20 @@ http://www.imooc.com/learn/443
 ```
 http://www.imooc.com/learn/122
 ```
+
+## Java学习网站建议：
+1. `Java入门第一季`
+```
+http://www.imooc.com/learn/85
+```
+2. `Java入门第二季`
+```
+http://www.imooc.com/learn/124
+```
+3. `Java入门第三季`
+```
+http://www.imooc.com/learn/110
+```
+
+## 环境需要用到的软件和环境配置请访问
+http://learning.happymmall.com/
