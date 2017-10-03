@@ -82,4 +82,4 @@ xiaofei ALL=(ALL)       ALL              （这一行是添加的内容，xiaofe
 [root@localhost xiaofei]# chmod u-w /etc/sudoers
 至此，在退出root用户之后就可以利用sudo命令来执行超级用户的权限了。
 ```
-4. 
+
