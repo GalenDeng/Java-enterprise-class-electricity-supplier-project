@@ -86,8 +86,8 @@ Tomcat7
 1)进入系统解压缩后的tomcat目录
 2)进入bin的目录
 3)执行./startup.bat
-看到Tomcat的窗口，并且有started的英文提示,表示启动成功：
-4)浏览器中输入： localhost:8080来进入Tomcat的页面
+看到Tomcat的窗口，并且有Server startup in 1343 ms 的英文提示,表示启动成功：
+4)浏览器中输入： http://localhost:8080/  or  http://127.0.0.1:8080/  来进入Tomcat的页面
 ```
 ### *Tomcat的常用命令*
 1. `Tomcat启动`
