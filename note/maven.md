@@ -25,5 +25,7 @@
 * 1) sudo /etc/profile 在最下面增加Maven的环境变量
 * 2) export MAVEN_HOME=_DIR__MAVEN_unpackage_PATH
      注： "="后边是安装在系统中Maven解压缩后的位置
+* 3) export PATH=$PATH:$JAVA_HOME/bin:$MAVEN_HOME/bin
+* 4) 执行source /etc/profile,使之生效，如下图所示：
 ```
  
